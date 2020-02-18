@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.equinox.internal.p2.ui.dialogs.UpdateWizard.WizardSettings">
+		<item key="DIALOG_X_ORIGIN" value="329"/>
+		<item key="DIALOG_Y_ORIGIN" value="10"/>
+		<item key="DIALOG_WIDTH" value="1283"/>
+		<item key="DIALOG_HEIGHT" value="871"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|12.895522|0|WINDOWS|1|-24|0|0|0|400|0|0|0|-120|0|0|0|34|Microsoft JhengHei UI"/>
+	</section>
+</section>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="totalEdge"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="allEdges"/>
+			<item value="destination"/>
+			<item value="source"/>
+			<item value="from"/>
+			<item value="readonly"/>
+			<item value="bool"/>
+			<item value="Balance"/>
+			<item value="Write"/>
+			<item value="WriteLine"/>
+			<item value="LNext"/>
+			<item value="Item"/>
+			<item value="RLink"/>
+			<item value="value"/>
+			<item value="node"/>
+			<item value="llink"/>
+		</list>
+		<list key="replacehistory">
+			<item value="totalEdge"/>
+			<item value="goal"/>
+			<item value="start"/>
+			<item value="final"/>
+			<item value="boolean"/>
+			<item value="balance"/>
+			<item value="out.printf"/>
+			<item value="out.println"/>
+			<item value="Lnext"/>
+			<item value="item"/>
+			<item value="Rlink"/>
+			<item value="ptr"/>
+			<item value="Llink"/>
+			<item value="printf"/>
+			<item value="out.print"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1031"/>
+		<item key="DIALOG_Y_ORIGIN" value="176"/>
+		<item key="DIALOG_WIDTH" value="479"/>
+		<item key="DIALOG_HEIGHT" value="579"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft JhengHei UI|12.895522|0|WINDOWS|1|-24|0|0|0|400|0|0|0|-120|0|0|0|34|Microsoft JhengHei UI"/>
+	</section>
+</section>
